@@ -179,6 +179,13 @@ This makes it easy to extend, test, or integrate into other systems.
 
 ## 🚀 Quick Start
 
+## Install requirements
+```bash
+
+pip install -r requirements.txt
+
+```
+
 ## 📄 Configuration via `config.json`
 
 You can avoid repeating CLI arguments by creating a `config.json`:
