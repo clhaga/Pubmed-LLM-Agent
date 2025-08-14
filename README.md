@@ -176,20 +176,6 @@ This makes it easy to extend, test, or integrate into other systems.
 - 📧 **NCBI Email** – Recommended; set `NCBI_EMAIL` environment variable
 - 🔐 **NCBI API Key** – Increases speed (up to 10 requests/sec)
 
-### Python Packages
-```txt
-google-generativeai
-requests
-tqdm
-lxml
-```
-
-Install with:
-```bash
-pip install -r requirements.txt
-```
-
----
 
 ## 🚀 Quick Start
 
