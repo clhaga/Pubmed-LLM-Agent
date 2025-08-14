@@ -1,6 +1,6 @@
-# 🌟 PubMed LLM Agent: Natural Language to Ranked Clinical Evidence
+# 🌟 PubMed LLM Agent: Natural Language to Ranked Evidence
 
-> **Ask in plain English. Get back ranked, relevant clinical studies.**  
+> **Ask in plain English. Get back ranked, relevant studies.**  
 > A smart agent that turns your natural language questions into precise PubMed searches, retrieves full-text eligible studies, and uses AI to rank them by relevance — all in one seamless workflow.
 
 ---
